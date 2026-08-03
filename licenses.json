@@ -1,3 +1,10 @@
 {
-  "devices": {}
+  "devices": {
+    "6aa1140a4adec91e": {
+      "licenseKey": "201517",
+      "label": "",
+      "status": "active",
+      "updatedAt": "2026-08-03T01:29:16.475Z"
+    }
+  }
 }
