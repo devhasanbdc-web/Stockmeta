@@ -17,6 +17,12 @@
       "label": "laptop 3",
       "status": "active",
       "updatedAt": "2026-08-07T14:32:32.898Z"
+    },
+    "2189fba9-c748-4906-ab0f-2bf3b4816af4": {
+      "licenseKey": "201517",
+      "label": "Acr14",
+      "status": "active",
+      "updatedAt": "2026-08-18T04:42:19.748Z"
     }
   }
 }
